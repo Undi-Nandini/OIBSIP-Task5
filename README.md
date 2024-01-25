@@ -1,1 +1,5 @@
 # OIBSIP-Task5
+# SALES PREDICTION USING PYTHON
+The data set taken from the task it contains TV,	Radio,	Newspaper,	Sales
+
+Welcome to the Sales Prediction Analysis repository! This project guides you through predicting sales using Python, leveraging the 'Advertising' dataset. Beginning with library imports such as Pandas, NumPy, Matplotlib, and Seaborn, we ensure a robust analysis. We inspect the data, dropping unnecessary columns ('Unnamed: 0') and conduct descriptive statistics for a comprehensive overview. Data types and non-null values are checked for integrity, ensuring a clean dataset. Visualization takes center stage with pair plots, histograms, and a heatmap to explore correlations between advertising channels (TV, Radio, Newspaper) and sales.Linear Regression becomes our modeling tool of choice, splitting the dataset into training and testing sets for training. Model evaluation using the R-squared score provides insight into predictive accuracy. We delve into coefficients and intercepts, unraveling the relationship between advertising channels and sales. Visualization enhances our understanding, with a scatter plot showcasing predicted vs. actual sales.
